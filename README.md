@@ -1,6 +1,6 @@
 # Project: Sailor Moon
 
-## Global Crime Visualizer
+## Global Violence Visualizer
 
 “I am Sailor Moon, champion of justice! On behalf of the moon, I will right wrongs and triumph over evil, and that means you!" - Sailor Moon
 
