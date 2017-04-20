@@ -57,4 +57,4 @@ A Spinnable and Zoomable World Map with time series and region interaction. On t
 
 ## Planned Interface:
 
-![planned ui](https://raw.githubusercontent.com/donnydongchen/sailor_moon/planned_interface.png)
+![planned ui](https://github.com/donnydongchen/sailor_moon/planned_interface.png)
